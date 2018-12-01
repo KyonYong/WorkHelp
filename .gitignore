@@ -9,3 +9,6 @@
 /build
 /captures
 .externalNativeBuild
+
+#no zip file
+*.zip
