@@ -1,0 +1,33 @@
+<resources>
+    //String
+    <string name="app_name">WorkHelp</string>
+    <string name="SearchDevice">查询设备</string>
+    <string name="AddDevice">新增设备</string>
+    <string name="editDevice">修改设备</string>
+    <string name="DeleteDevice">删除设备</string>
+    <string name="DeviceName">设备名称</string>
+    <string name="DeviceType">设备类型</string>
+    <string name="SerialNumber">序列号</string>
+    <string name="DeviceBrand">品牌名称</string>
+    <string name="DeviceModel">型号</string>
+    <string name="Employee">使用人</string>
+    <string name="EmployeeID">员工号</string>
+    <string name="AssetNumber">资产编号</string>
+    <string name="InData">投运日期</string>
+    <string name="OutData">报废日期</string>
+    <string name="Workspace">办公区</string>
+    <string name="Floor">楼层</string>
+    <string name="Office">办公室</string>
+    <string name="Info">备注</string>
+
+
+    //ButtonString
+    <string name="Search">查询</string>
+    <string name="Add">新增</string>
+    <string name="Save">保存</string>
+    <string name="Upload">上传</string>
+    <string name="Edit">修改</string>
+    <string name="Delete">删除</string>
+    <string name="Clear">清除</string>
+
+</resources>

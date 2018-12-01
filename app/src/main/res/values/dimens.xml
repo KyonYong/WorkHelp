@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    //FontSize
+    <dimen name="TitleSize" >24sp</dimen>
+    <dimen name="HeadlineSize">24sp</dimen>
+    <dimen name="SubheadSize">16sp</dimen>
+    <dimen name="BodySize">14sp</dimen>
+    <dimen name="MenuSize">14sp</dimen>
+    <dimen name="ButtonSize">14sp</dimen>
+    <dimen name="CaptionSize">12sp</dimen>
+    <dimen name="Size34">34sp</dimen>
+    <dimen name="Size20">20sp</dimen>
+    <dimen name="Size16">16sp</dimen>
+    <dimen name="Size14">14sp</dimen>
+    <dimen name="Size12">12sp</dimen>
+
+    //Padding
+    <dimen name="FontPadding">8dp</dimen>
+    <dimen name="ButtonPadding">16dp</dimen>
+
+</resources>
