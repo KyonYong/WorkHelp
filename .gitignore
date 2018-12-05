@@ -12,3 +12,8 @@
 
 #no zip file
 *.zip
+
+
+#no apk file
+*.apk
+
